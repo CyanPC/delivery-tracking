@@ -1,5 +1,11 @@
 package com.cyan.deliverytracking.domain.model;
 
+import lombok.*;
+
+@Getter
+@Builder
+@EqualsAndHashCode
+@AllArgsConstructor
 public class ContactPoint {
     private String zipCode;
     private String complement;
