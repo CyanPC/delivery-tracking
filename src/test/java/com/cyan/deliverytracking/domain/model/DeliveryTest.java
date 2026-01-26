@@ -1,6 +1,6 @@
 package com.cyan.deliverytracking.domain.model;
 
-import com.cyan.deliverytracking.domain.exeption.DomainException;
+import com.cyan.deliverytracking.domain.exception.DomainException;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

@@ -1,6 +1,6 @@
 package com.cyan.deliverytracking.domain.model;
 
-import com.cyan.deliverytracking.domain.exeption.DomainException;
+import com.cyan.deliverytracking.domain.exception.DomainException;
 import lombok.*;
 
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package com.cyan.deliverytracking.domain.exeption;
+package com.cyan.deliverytracking.domain.exception;
 
 public class DomainException extends RuntimeException {
 
